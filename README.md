@@ -16,7 +16,7 @@
 
 ## Created
 - Project created: November 2025
-- Readme updated: 11 November 2025
+- Readme updated: 15 November 2025
 
 ## Dependencies
 You will need <code>python</code> along with the 'standard' data science related libraries we all know and love to run the <code>notebook</code> as well as some you may not have yet used
