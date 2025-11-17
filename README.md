@@ -44,7 +44,7 @@ The 2025 [Stack Overflow Annual Developer Survey](https://survey.stackoverflow.c
 
 ## Repository Files
 
-- Jupyter notebook: dsnd_ds blog post_draft_v1.ipynb -- this file contains the documented python code used to perform the analysis answering the questions where is it best to be a developer as well as the developer salary predictions. 
+- Jupyter notebook: dsnd_ds blog post_v1.ipynb -- this file contains the documented python code used to perform the analysis answering the questions where is it best to be a developer as well as the developer salary predictions. 
 
 ## Analysis and Prediction Results
 
